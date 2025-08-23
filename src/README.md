@@ -78,11 +78,11 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
 ## Cómo Ejecutar el Proyecto
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/EilerDelgado/Examen1-Backend2
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd <NOMBRE_DEL_PROYECTO>
+   cd Examen1-Backend2
    ```
 3. Ejecuta la aplicación:
    ```bash
